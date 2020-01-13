@@ -9,3 +9,5 @@ A set o runbooks to explore jupyter notebooks to small enviroments setup
 - [02 - Python Pandas and Docker Test](https://github.com/6za/runbooks-jupyter/blob/master/02-PythonAndDocker/02-PythonAndDocker.ipynb)
 - [03 - Python Pandas and Simple SSH Test](https://github.com/6za/runbooks-jupyter/blob/master/03-ssh-access/03-ssh-access.ipynb)
 - [04 - Pandas and Docker - Deploy monitoring stack](https://github.com/6za/runbooks-jupyter/blob/master/04-deploy-monitor/run-script.ipynb)
+- [05 - Prometheus and InfluxDB](https://github.com/6za/runbooks-jupyter/blob/master/05-monitoring-stack/run-book-monitoring-stack.ipynb)
+- [06 - SSH and Docker Details](https://github.com/6za/runbooks-jupyter/blob/master/06-ssh-get-nodes-details/runbook-node-details.ipynb)
